@@ -1,4 +1,4 @@
-package V17.sealed;
+package v17.sealed;
 
 public final class Circle extends Shape {
     @Override

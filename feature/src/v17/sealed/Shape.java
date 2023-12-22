@@ -1,4 +1,4 @@
-package V17.sealed;
+package v17.sealed;
 
 public sealed abstract class Shape permits Rectangle, Circle {
 

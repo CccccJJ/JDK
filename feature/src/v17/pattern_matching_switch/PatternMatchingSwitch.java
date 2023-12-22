@@ -1,4 +1,4 @@
-package V17.pattern_matching_switch;
+package v17.pattern_matching_switch;
 
 public class PatternMatchingSwitch {
 
